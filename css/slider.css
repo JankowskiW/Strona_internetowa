@@ -1,0 +1,46 @@
+
+
+ul.bjqs-controls.v-centered li a{
+	display:block;
+	padding:10px;
+	background:white;
+	color:#000;
+	text-decoration: none;
+}
+
+ul.bjqs-controls.v-centered li a:hover{
+	background:#000;
+	color: white;
+        
+}
+
+ol.bjqs-markers li a{
+	padding: 5px 10px;
+	background:#000;
+	color: white;
+	margin:5px;
+	text-decoration: none;
+        font-weight: bold;
+}
+
+ol.bjqs-markers li.active-marker a,
+ol.bjqs-markers li a:hover{
+	background: #1f1f1f;
+        color: white;
+         border-radius: 7px;
+}
+
+p.bjqs-caption{
+	background: rgba(0,0,0,0.7);
+        height: 20px;
+        width: 1001px;
+        font-size: 20px;
+}
+
+p.bjqs-caption:hover{
+	background: rgba(0,0,0,0.7);
+        height: 20px;
+        width: 1001px;
+        font-size: 20px;
+        color: white;
+}
